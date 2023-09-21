@@ -37,6 +37,12 @@ source venv/bin/activate
 source venv/Scripts/activate
 ```
 
+### 2.1 Instale os pacotes do requirements.txt
+
+```shell
+pip install -r requirements.txt
+```
+
 ### 3. Instalar o pacote <strong>pytest-testdox</strong>:
 
 ```shell
